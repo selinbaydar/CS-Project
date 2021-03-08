@@ -1013,3 +1013,14 @@ editor and declare such channels as non-data channels
 
 % NOTE: after this point, I will add comments as I go rather than looking
 % back all at once, so they wil be more specific. 
+
+% visualing my data again to identify bad channels 
+pop_spectopo(): selecting time range   0.00 ms to 124996.09 ms (points 1 to 32000)
+Pop_spectopo: finding data discontinuities
+Computing spectra (window length 256; fft length: 256; overlap 0):
+................................................................
+Click on each trace for channel/component index
+Channel 42
+
+%channel 42 looks like it should be removed 
+
