@@ -15,3 +15,31 @@ During the initial parts of the third part of our project where we created a uni
 Link to the initial progress: https://docs.google.com/document/d/10euHqT-cEtLCuzipyNTKDnlf0JmZs7IgAttwGa9Gt_0/edit?usp=sharing
 
 Overall, our code works within our local computers and we have attached below a video that we created, which explains how to run our code. This was necessary since our input data is contained in a local folder and isn't accessible to outside coders.
+
+Note: Since both parts on the final code were put into one script, and the codes weren't commites we will be putting down our individual hours below, who wrote the sections, who debugged, and the time it took
+
+Who wrote each section: 
+Selin and Jessica: wrote code from a = EEG.data ... imshow(unique_color) and debugged, 4 hours each (3/9-3/10)
+Jay:
+
+Total Hours 
+
+Meetings for office hours, coding, debugging
+For each team member = 
+2/27: 1-2pm
+3/01: 5:30- 6:30pm
+3/04: 7-9pm
+3/05: 9-11am 6
+3/07: 11:30am-2pm
+3/07: 7-8pm
+3/08: 3:15-5:15pm
+3/08: 6-7:15pm
+3/9: 4-5:00pm, 6:30-8:30pm
+3/10: 8:30-10am, 4-5:30pm, 8-10pm
+
+
+
+
+
+
+
