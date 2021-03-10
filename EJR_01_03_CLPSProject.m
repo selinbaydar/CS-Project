@@ -3,6 +3,8 @@
 % going through some filtering steps. After line 1010 the comments will be
 % more specific as I will make sure to do them as I go!
 
+%pulled by Selin at 6 PM to demonstrate that she can pull and push from Github
+
 
 Warning: Name is nonexistent or not a directory: C:\Users\emmar\AppData\Local\Temp\Editor_wkyur 
 eeglab
