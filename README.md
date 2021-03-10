@@ -13,7 +13,7 @@ During the second part of our project where we created an automated processing s
     NOTE: Each member demonstrated ability to commit/push code. EJR commmited several times before she switched her script to another folder to make it work, JO and SB praticed with code that can be found in this repository as well. 
 
 During the initial parts of the third part of our project where we created a unique color producing script, we were unable to create a function. Thus, we wrote a script that could be implemented as a command after opening the EEGLab toolbox. We wrote the command script on a shared google doc which is linked below. After we succesfully created the command script, we converted the script into a function. However, similar to the issues we faced on the second part of the project, we were not able to commit our script into Github because our data came from a local folder and moving it to Github caused the function to lose its input.
-Link to the initial progress: https://docs.google.com/document/d/1p-3YUsGUxe75jmCkLPjE0z6UDGI6POcuRRhcYtopokg/edit?usp=sharing
+Link to the initial progress: https://docs.google.com/document/d/10euHqT-cEtLCuzipyNTKDnlf0JmZs7IgAttwGa9Gt_0/edit?usp=sharing
 
 Overall, our code works within our local computers and we have attached below a video that we created, which explains how to run our code. This was necessary since our input data is contained in a local folder and isn't accessible to outside coders.
 
