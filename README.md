@@ -1,6 +1,7 @@
 # CS-Project
 This is our midterm project for CLPS0950.
 Our proposal can be accessed with this link: https://docs.google.com/document/d/10RujP7LPyngtEgh2yr1tTahU-b8GROM765123ph1O5U/edit?usp=sharing
+
 Our project is composed of 3 parts:
 First, we went through the workshop and tutorials for EEGLAB and manipulated tutorial and real raw data based on our learnings from the tutorial.
 Second, we created a script that automated preprocessing for any given EEG data without using the graphical interface of EEGLab toolbox.
