@@ -1,6 +1,7 @@
 # CS-Project
 This is our midterm project for CLPS0950.
 Our proposal can be accessed with this link: https://docs.google.com/document/d/1p-3YUsGUxe75jmCkLPjE0z6UDGI6POcuRRhcYtopokg/edit?usp=sharing
+A video showing that the code works can be found here: https://drive.google.com/file/d/1Rd0ow5ou6MNe-9HNQMhROFqK5amiN09L/view?usp=sharing
 
 Our project is composed of 3 parts:
 First, we went through the workshop and tutorials for EEGLAB and manipulated tutorial and real raw data based on our learnings from the tutorial.
